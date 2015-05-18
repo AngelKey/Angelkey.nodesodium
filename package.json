@@ -1,6 +1,6 @@
 {
     "name": "keybase-sodium",
-    "version": "1.0.14",
+    "version": "1.0.14-1",
     "author" : "Pedro Paixao <paixaop@gmail.com>",
     "license" : "MIT",
     "description" : "Lib Sodium port for node.js",
